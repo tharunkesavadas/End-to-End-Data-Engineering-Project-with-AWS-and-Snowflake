@@ -1,6 +1,6 @@
 # Spotify End-to-End- Data Engineering Project with AWS and Snowflake
 
-### My latest Data Engineering Project, where I designed and implemented a scalable ETL pipeline using AWS, Snowflake, Python, SQL and Power BI. This project automated data ingestion from the Spotify API, transformed it using AWS Lambda, and loaded it into Snowflake Data warehouse for analytics and visualization in Power BI.
+#### My latest Data Engineering Project, where I designed and implemented a scalable ETL pipeline using AWS, Snowflake, Python, SQL and Power BI. This project automated data ingestion from the Spotify API, transformed it using AWS Lambda, and loaded it into Snowflake Data warehouse for analytics and visualization in Power BI.
 
 #### 1. Data Extraction (Extract Layer) 
 
